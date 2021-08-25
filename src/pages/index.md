@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
-title: Ylitalon rakennus
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Ylitalon rakennuspalvelut
+image: /img/musta-omakotitalo-h62397.jpg
+heading: Ammattitaitoiset veljekset
+subheading: Kokonaisvaltaista rakentamista
 mainpitch:
-  title: Why Kaldi
+  title: Miksi ylitalo?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
+    Ylitalo is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
@@ -17,6 +17,9 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
+    - image: /img/ylitalon.png
+      text: Ylitalon rakennus toteuttaa kokonaisvaltaisia rakennusurakoita lahden
+        alueella.
     - image: /img/coffee.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
